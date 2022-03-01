@@ -1,0 +1,58 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+
+C:\app\Pure>java -jar FanApp.jar
+Ceiling Fan :
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: r
+Ceiling Fan OFF. Speed: 0, Direction COUNTER-CLOCKWISE
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: p
+Ceiling Fan ON. Speed: 1, Direction COUNTER-CLOCKWISE
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: p
+Ceiling Fan ON. Speed: 2, Direction COUNTER-CLOCKWISE
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: r
+Ceiling Fan ON. Speed: 2, Direction CLOCKWISE
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: p
+Ceiling Fan ON. Speed: 3, Direction CLOCKWISE
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: p
+Ceiling Fan OFF. Speed: 0, Direction CLOCKWISE
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: 7
+Please enter p, r, or e
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: p
+Ceiling Fan ON. Speed: 1, Direction CLOCKWISE
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: r
+Ceiling Fan ON. Speed: 1, Direction COUNTER-CLOCKWISE
+p - on/increase fan speed(1/2/3)/off
+r - Reverse fan direction
+e - Exit
+Press p , r, or e + <ENTER>: e
+GoodBye
+
+C:\app\Pure>
